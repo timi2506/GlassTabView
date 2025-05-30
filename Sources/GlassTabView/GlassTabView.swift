@@ -68,7 +68,7 @@ public struct GlassTabView: View {
                     .foregroundStyle(.ultraThinMaterial)
                     .shadow(color: Color(uiColor: .gray).opacity(0.35), radius: 15)
             )
-            .scaleEffect(tabItems.count <= 5 ? 0.90 : 1)
+            .scaleEffect(tabItems.count <= 5 ? 0.875 : 1)
             .onLongPressGesture(minimumDuration: 0.25) {
                 let impactHeavy = UIImpactFeedbackGenerator(style: .heavy)
                 impactHeavy.impactOccurred()
