@@ -1,5 +1,10 @@
 # GlassTabView
-visionOS Inspired TabView for iOS 15+
+visionOS Inspired TabView for iOS 15+ with Haptics
+
+
+https://github.com/user-attachments/assets/ae06f8d7-8cab-4b3d-aaea-739369d93c6d
+
+
 
 ## Installation
 ### Using Xcode's built-in Package Manager 
